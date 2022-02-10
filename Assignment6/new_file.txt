@@ -1,0 +1,24 @@
+
+
+
+
+.PHONY: clean
+
+CC = -Code -Coding
+
+
+
+list.o: list.c list.h
+
+list-adders.o: list-adders.c list.h
+
+
+venting.o: vents.c vents.h
+
+venting: venting.o list.o list-adders.o
+
+
+
+
+clean :
+	 rm -f *.o venting
