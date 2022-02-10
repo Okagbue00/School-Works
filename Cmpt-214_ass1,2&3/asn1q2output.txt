@@ -1,0 +1,11 @@
+/* OKAGBUE ONYEKA FRANCIS
+ * CMPT 214
+ * Student No: 11279373 */
+
+
+asn1q2 Output:-
+
+Enter the diameter: 3
+The radius of the circle is 1.500000
+The area of the circle is 7.06
+The circumference is 9.42
